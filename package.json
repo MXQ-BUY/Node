@@ -1,7 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"version": "1.0.0",
-	"author": "mxq",
+	"author": "foobar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,6 +13,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MXQ-BUY/Node/blob/main/package.json"
+		"url": "https://github.com/MXQ-BUY/Node.git"
 	}
 }
